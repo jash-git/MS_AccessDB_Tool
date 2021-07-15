@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210715\SYWEB-V8-Workstation(Delta)\CS_Console_AccessDB\bin\Debug\CS_Console_AccessDB.exe.config
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210715\SYWEB-V8-Workstation(Delta)\CS_Console_AccessDB\obj\Debug\CS_Console_AccessDB.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210715\SYWEB-V8-Workstation(Delta)\CS_Console_AccessDB\bin\Debug\CS_Console_AccessDB.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210715\SYWEB-V8-Workstation(Delta)\CS_Console_AccessDB\bin\Debug\CS_Console_AccessDB.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210715\SYWEB-V8-Workstation(Delta)\CS_Console_AccessDB\obj\Debug\CS_Console_AccessDB.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210715\SYWEB-V8-Workstation(Delta)\CS_Console_AccessDB\obj\Debug\CS_Console_AccessDB.pdb
